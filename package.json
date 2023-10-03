@@ -3,6 +3,7 @@
 	"author": "Samantha Brown",
 	"description": "Free Code Camp - Back End Development and APIs course material.",
 	"keywords": ["freecodecamp", "backend", "apis"],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
