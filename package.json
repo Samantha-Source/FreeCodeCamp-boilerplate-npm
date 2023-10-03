@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Samantha Brown",
+	"description": "Free Code Camp - Back End Development and APIs course material.",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
